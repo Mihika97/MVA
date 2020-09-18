@@ -1,7 +1,7 @@
 # MVA Project
 MultiVariate Analysis Fall 2020
 
-## US Accidents, A countrywise traffic accident dataset(2016-2020) KAGGLE
+## US Accidents, A countrywide traffic accident dataset(2016-2020) KAGGLE
 MVA Project repository 
 
 ### Team Members
