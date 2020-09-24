@@ -49,7 +49,7 @@ Index|Attribute Name|Description
 18|Sunrise_Sunset|Shows the period of the day(i.e. day or night)
 
 
-# SPAP ANALYSIS (Assignment 2)
+# SPAP(Structured Pyramid Analysis Plan) ANALYSIS (Assignment 2)
 
 ### Inspiration
 US-Accidents can be used for numerous applications such as real-time car accident prediction, studying car accidents hotspot locations, casualty analysis and extracting cause and effect rules to predict car accidents, and studying the impact of precipitation or other environmental stimuli on accident occurrence. The most recent release of the dataset can also be useful to study the impact of COVID-19 on traffic behavior and accidents.
@@ -74,7 +74,11 @@ The common and most important Dependent variable would be "Severity", that direc
 
 # Specific Questions
 Q1. If weather is a dependent variable for road accidents prediction, how does increasing or decreasing the weather parameter affect the severity?
+
+
 Q2. If Infrastructure is a dependent variable, how does the presence or absence of road signals, bumps, turning points affect the event of an accident occurance and its severity?
+
+
 Q3. If Location of accident is a dependent variable, how does the area, city , country, time of accident affect the severity?
 
 # Independent Variables
